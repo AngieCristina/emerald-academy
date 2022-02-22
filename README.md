@@ -10,4 +10,4 @@ An smart contract is what a developer does in the blockchain through an language
 
 script   vs   transaccion :
 
-script is the place where you can view you code and transcaction is the function the method that is updated in the blockchain.
+script is the place where you can view you code and scripts are FREE,  and transcaction is the function the method that is updated in the blockchain.
