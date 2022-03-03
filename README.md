@@ -1,4 +1,4 @@
-# emerald-academy 
+## chapter 1
 
 quest #1
 
@@ -25,3 +25,19 @@ What are the 5 Cadence Programming Language Pillars?
 In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful (you don't have to answer this for #5)?
 
 I think Developer Experience and Safety Security , the first one  because is very important the mental health of the developer, and the second one because with that pillar we could develop a useful and safe smart contract and feel confident with that 
+
+## chapter 2
+
+quest #1
+
+1. Deploy a contract to account 0x03 called "JacobTucker". Inside that contract, declare a constant variable named is, and make it have type String. Initialize it to "the best" when your contract gets deployed.
+
+![Screen Shot 2022-03-03 at 9 35 41 AM](https://user-images.githubusercontent.com/46632846/156587760-0a0aab85-b6bb-49ed-be78-e8815764a16d.png)
+
+quest #2
+
+2. Check that your variable is actually equals "the best" by executing a script to read that variable. Include a screenshot of the output.
+
+![Screen Shot 2022-03-03 at 9 35 55 AM](https://user-images.githubusercontent.com/46632846/156588047-bc6cadac-0f91-411d-a4ed-03f0004d49d8.png)
+
+
