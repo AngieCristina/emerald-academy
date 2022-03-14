@@ -1,4 +1,4 @@
-## chapter 1
+## Chapter 1.0 - Day 1
 
 quest #1
 
@@ -12,7 +12,7 @@ script   vs   transaccion :
 
 script is the place where you can view you code and scripts are FREE,  and transcaction is the function the method that is updated in the blockchain.
 
-quest #2
+## Chapter 1.0 - Day 2
 
 What are the 5 Cadence Programming Language Pillars?
 
@@ -26,7 +26,8 @@ In your opinion, even without knowing anything about the Blockchain or coding, w
 
 I think Developer Experience and Safety Security , the first one  because is very important the mental health of the developer, and the second one because with that pillar we could develop a useful and safe smart contract and feel confident with that 
 
-## chapter 2
+## Chapter 2.0 - Day 1
+
 
 quest #1
 
@@ -39,5 +40,8 @@ quest #2
 2. Check that your variable is actually equals "the best" by executing a script to read that variable. Include a screenshot of the output.
 
 ![Screen Shot 2022-03-03 at 9 35 55 AM](https://user-images.githubusercontent.com/46632846/156588047-bc6cadac-0f91-411d-a4ed-03f0004d49d8.png)
+
+## Chapter 2.0 - Day 2
+
 
 
